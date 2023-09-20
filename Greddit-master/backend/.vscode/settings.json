@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/87d7671b-dc86-4ec6-96a2-c1dcab648750/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Grediiit",
+    "appService.deploySubpath": "."
+}
